@@ -1,0 +1,2 @@
+DELETE FROM Vehicles
+WHERE ID = $1;
